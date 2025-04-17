@@ -1,0 +1,53 @@
+Ether / IPv6 / TCP 2600:1413:b000:1d::17d1:2e97:https > 2409:40e2:1018:2091:a593:3502:9b1c:dc02:50189 PA / Raw
+Ether / IPv6 / TCP 2409:40e2:1018:2091:a593:3502:9b1c:dc02:50189 > 2600:1413:b000:1d::17d1:2e97:https FA
+Ether / IPv6 / TCP 2600:1413:b000:1d::17d1:2e97:https > 2409:40e2:1018:2091:a593:3502:9b1c:dc02:50189 PA / Raw
+Ether / IPv6 / TCP 2600:1413:b000:1d::17d1:2e97:https > 2409:40e2:1018:2091:a593:3502:9b1c:dc02:50189 FA
+Ether / IPv6 / TCP 2409:40e2:1018:2091:a593:3502:9b1c:dc02:50189 > 2600:1413:b000:1d::17d1:2e97:https RA
+Ether / IP / TCP 172.20.10.4:50548 > 140.82.113.22:https A / Raw
+Ether / IP / TCP 140.82.113.22:https > 172.20.10.4:50548 A
+Ether / IPv6 / UDP / DNS Qry b'telemetry.individual.githubcopilot.com.'
+Ether / IPv6 / UDP / DNS Qry b'telemetry.individual.githubcopilot.com.'
+Ether / IPv6 / UDP / DNS Ans b'copilot-telemetry-service.githubusercontent.com.'
+Ether / IPv6 / UDP / DNS Ans b'copilot-telemetry-service.githubusercontent.com.'
+Ether / IP / TCP 172.20.10.4:50582 > 140.82.113.21:https S
+Ether / IP / TCP 140.82.113.21:https > 172.20.10.4:50582 SA
+Ether / IPv6 / UDP / DNS Qry b'mobile.events.data.microsoft.com.'
+Ether / IP / TCP 140.82.113.21:https > 172.20.10.4:50582 A
+Ether / IP / TCP 140.82.113.21:https > 172.20.10.4:50582 A
+Ether / IPv6 / UDP / DNS Ans b'mobile.events.data.trafficmanager.net.'
+Ether / IP / TCP 172.20.10.4:50583 > 20.50.201.205:https S
+Ether / IP / TCP 140.82.113.21:https > 172.20.10.4:50582 A
+Ether / IP / TCP 140.82.113.21:https > 172.20.10.4:50582 A
+Ether / IP / TCP 140.82.113.21:https > 172.20.10.4:50582 A
+Ether / IP / TCP 140.82.113.21:https > 172.20.10.4:50582 A
+Ether / IP / TCP 140.82.113.21:https > 172.20.10.4:50582 A
+Ether / IP / TCP 140.82.113.21:https > 172.20.10.4:50582 A
+Ether / IP / TCP 140.82.113.21:https > 172.20.10.4:50582 A
+Ether / IP / TCP 140.82.113.21:https > 172.20.10.4:50582 PA / Raw
+Ether / IP / TCP 140.82.113.21:https > 172.20.10.4:50582 A
+Ether / IP / TCP 20.50.201.205:https > 172.20.10.4:50583 SA
+Ether / IP / TCP 172.20.10.4:50583 > 20.50.201.205:https A
+Ether / IP / TCP 172.20.10.4:50583 > 20.50.201.205:https PA / Raw
+Ether / IP / TCP 172.20.10.4:50582 > 140.82.113.21:https A
+Ether / IP / TCP 20.50.201.205:https > 172.20.10.4:50583 A / Raw
+Ether / IP / TCP 172.20.10.4:50583 > 20.50.201.205:https A
+Ether / IP / TCP 20.50.201.205:https > 172.20.10.4:50583 A / Raw
+Ether / IP / TCP 20.50.201.205:https > 172.20.10.4:50583 A / Raw
+Ether / IP / TCP 20.50.201.205:https > 172.20.10.4:50583 A / Raw
+Ether / IP / TCP 20.50.201.205:https > 172.20.10.4:50583 A / Raw
+Ether / IP / TCP 20.50.201.205:https > 172.20.10.4:50583 PA / Raw
+Ether / IP / TCP 172.20.10.4:50583 > 20.50.201.205:https A
+Ether / IP / TCP 172.20.10.4:50583 > 20.50.201.205:https PA / Raw
+Ether / IP / TCP 172.20.10.4:50583 > 20.50.201.205:https PA / Raw
+Ether / IP / TCP 172.20.10.4:50583 > 20.50.201.205:https A / Raw
+Ether / IP / TCP 172.20.10.4:50583 > 20.50.201.205:https PA / Raw
+Ether / IP / TCP 20.50.201.205:https > 172.20.10.4:50583 A
+Ether / IP / TCP 20.50.201.205:https > 172.20.10.4:50583 A
+Ether / IP / TCP 20.50.201.205:https > 172.20.10.4:50583 PA / Raw
+Ether / IP / TCP 172.20.10.4:50583 > 20.50.201.205:https A
+Ether / IP / TCP 140.82.113.21:https > 172.20.10.4:50582 PA / Raw
+Ether / IP / TCP 172.20.10.4:50582 > 140.82.113.21:https A
+Ether / IP / TCP 20.50.201.205:https > 172.20.10.4:50583 PA / Raw
+Ether / IP / TCP 172.20.10.4:50583 > 20.50.201.205:https A
+Ether / IP / TCP 172.20.10.4:50583 > 20.50.201.205:https RA
+Ether / IP / TCP 140.82.113.21:https > 172.20.10.4:50582 PA / Raw
